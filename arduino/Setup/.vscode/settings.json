@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/selti/.platformio/penv/bin:/Users/selti/.platformio/penv:/Users/selti/.rvm/gems/ruby-2.5.1/bin:/Users/selti/.rvm/gems/ruby-2.5.1@global/bin:/Users/selti/.rvm/rubies/ruby-2.5.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/selti/.rvm/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
