@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LedController</string>
+    <string name="text_led_on">LED On</string>
+    <string name="text_led_off">LED Off</string>
+    <string name="button_toggle">Toggle</string>
+</resources>
